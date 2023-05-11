@@ -8,6 +8,11 @@ body {
     line-height: 1.8;
 }
 
+.auto {
+  margin:auto;
+  font-size: 50px;
+}
+
 p {
     font-size: 16px;
 }
@@ -137,7 +142,6 @@ ul{
   position: relative;
   text-align: center;
   color: white;
-  font-size: 100px;
 }
 /* Centered text */
 .centered{
